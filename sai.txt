@@ -1,0 +1,34 @@
+							NIAGARA 4 SOFTWARE					
+
+			"Niagara 4 Framework," which is related to software rather than images.
+
+ 					The Niagara 4 Framework is an IoT (Internet of Things) platform developed by Tridium, 
+					used for building management systems, automation, and control.
+					It allows users to manage diverse systems and devices, like HVAC, lighting, security, and more, 
+					within a single interface.
+					 It's more about data integration, connectivity, and control within IoT environments.
+
+It's a sophisticated IoT (Internet of Things) solution that enables the integration and management of diverse systems and devices 
+within various industries such as commercial buildings, industrial facilities, and smart cities.
+
+Key features and aspects of Niagara 4 include:
+
+1)Integration Capabilities: Niagara 4 provides a platform for integrating diverse systems and devices,
+ including HVAC (Heating, Ventilation, and Air Conditioning), lighting, security, energy management systems, and more.
+ It acts as a unified interface to monitor and control these disparate systems.
+
+2)Scalability: The platform is designed to scale, accommodating both small and large systems. 
+	It can handle a wide array of devices and supports the integration of new technologies and protocols as they emerge.
+
+3)Customization and Extensibility: Niagara 4 offers customization options, allowing developers to create custom applications, 
+user interfaces, and workflows tailored to specific needs. It supports various programming languages and frameworks for flexibility.
+
+4)Data Management and Analytics: The framework collects and analyzes data from connected devices, 
+	enabling insights into energy usage, system performance, and other key metrics. 
+	This data-driven approach can lead to more efficient operations and predictive maintenance.
+
+5)Cybersecurity: Security is a significant concern in IoT environments.
+ Niagara 4 includes features and protocols to help secure the connected devices, networks, and data, ensuring protection against cyber threats.
+
+6)User Interface: It provides a user-friendly interface for system administrators and end-users to monitor and control different aspects of the managed systems.
+ The interface is often web-based, allowing access from various devices.
